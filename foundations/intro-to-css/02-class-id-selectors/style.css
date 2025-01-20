@@ -7,3 +7,14 @@
 .num3 {
     font-size: 30px;
 }
+
+#num2 {
+    color: blue;
+    font-size: 50px;
+}
+
+#num4 {
+    background-color: green;
+    font-size: 30px;
+    font-weight: bold;
+}
